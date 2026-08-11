@@ -1,9 +1,4 @@
-# 🎯 Guess-the-Number Game (Python)
 
-[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)  
-[![Stars](https://img.shields.io/github/stars/sanjay-07stfu/guess-the-number-project.py.svg)](https://github.com/sanjay-07stfu/guess-the-number-project.py)  
-
----
 
 ## 🧩 Overview
 
